@@ -47,44 +47,44 @@ a, a:hover, a:active{ outline:0px !important}
 
 @font-face {
   font-family: 'FontAwesome';
-  src: url('/web/20181128002804im_/http://nonwovenindia.in/fonts/fontawesome-webfont.eot?v=4.1.0');
-  src: url('/web/20181128002804im_/http://nonwovenindia.in/fonts/fontawesome-webfont.eot#iefix&v=4.1.0') format('embedded-opentype'), url('/web/20181128002804im_/http://nonwovenindia.in/fonts/fontawesome-webfont.woff?v=4.1.0') format('woff'), url('/web/20181128002804im_/http://nonwovenindia.in/fonts/fontawesome-webfont.ttf?v=4.1.0') format('truetype'), url('/web/20181128002804im_/http://nonwovenindia.in/fonts/fontawesome-webfont.svg?v=4.1.0#fontawesomeregular') format('svg');
+  src: url('https://web.archive.org/web/20181128002804im_/http://nonwovenindia.in/fonts/fontawesome-webfont.eot?v=4.1.0');
+  src: url('https://web.archive.org/web/20181128002804im_/http://nonwovenindia.in/fonts/fontawesome-webfont.eot#iefix&v=4.1.0') format('embedded-opentype'), url('https://web.archive.org/web/20181128002804im_/http://nonwovenindia.in/fonts/fontawesome-webfont.woff?v=4.1.0') format('woff'), url('https://web.archive.org/web/20181128002804im_/http://nonwovenindia.in/fonts/fontawesome-webfont.ttf?v=4.1.0') format('truetype'), url('https://web.archive.org/web/20181128002804im_/http://nonwovenindia.in/fonts/fontawesome-webfont.svg?v=4.1.0#fontawesomeregular') format('svg');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
     font-family: 'LatoRegular';
-    src: url('/web/20181128002804im_/http://nonwovenindia.in/fonts/lato-regular.eot');
-    src: url('/web/20181128002804im_/http://nonwovenindia.in/fonts/lato-regular.eot') format('embedded-opentype'),
-         url('/web/20181128002804im_/http://nonwovenindia.in/fonts/lato-regular.woff2') format('woff2'),
-         url('/web/20181128002804im_/http://nonwovenindia.in/fonts/lato-regular.woff') format('woff'),
-         url('/web/20181128002804im_/http://nonwovenindia.in/fonts/lato-regular.ttf') format('truetype'),
-         url('/web/20181128002804im_/http://nonwovenindia.in/fonts/lato-regular.svg#LatoRegular') format('svg');
+    src: url('https://web.archive.org/web/20181128002804im_/http://nonwovenindia.in/fonts/lato-regular.eot');
+    src: url('https://web.archive.org/web/20181128002804im_/http://nonwovenindia.in/fonts/lato-regular.eot') format('embedded-opentype'),
+         url('https://web.archive.org/web/20181128002804im_/http://nonwovenindia.in/fonts/lato-regular.woff2') format('woff2'),
+         url('https://web.archive.org/web/20181128002804im_/http://nonwovenindia.in/fonts/lato-regular.woff') format('woff'),
+         url('https://web.archive.org/web/20181128002804im_/http://nonwovenindia.in/fonts/lato-regular.ttf') format('truetype'),
+         url('https://web.archive.org/web/20181128002804im_/http://nonwovenindia.in/fonts/lato-regular.svg#LatoRegular') format('svg');
 }
 @font-face {
     font-family: 'LatoBoldBold';
-    src: url('/web/20181128002804im_/http://nonwovenindia.in/fonts/lato-bold.eot');
-    src: url('/web/20181128002804im_/http://nonwovenindia.in/fonts/lato-bold.eot') format('embedded-opentype'),
-         url('/web/20181128002804im_/http://nonwovenindia.in/fonts/lato-bold.woff2') format('woff2'),
-         url('/web/20181128002804im_/http://nonwovenindia.in/fonts/lato-bold.woff') format('woff'),
-         url('/web/20181128002804im_/http://nonwovenindia.in/fonts/lato-bold.ttf') format('truetype'),
-         url('/web/20181128002804im_/http://nonwovenindia.in/fonts/lato-bold.svg#LatoBoldBold') format('svg');
+    src: url('https://web.archive.org/web/20181128002804im_/http://nonwovenindia.in/fonts/lato-bold.eot');
+    src: url('https://web.archive.org/web/20181128002804im_/http://nonwovenindia.in/fonts/lato-bold.eot') format('embedded-opentype'),
+         url('https://web.archive.org/web/20181128002804im_/http://nonwovenindia.in/fonts/lato-bold.woff2') format('woff2'),
+         url('https://web.archive.org/web/20181128002804im_/http://nonwovenindia.in/fonts/lato-bold.woff') format('woff'),
+         url('https://web.archive.org/web/20181128002804im_/http://nonwovenindia.in/fonts/lato-bold.ttf') format('truetype'),
+         url('https://web.archive.org/web/20181128002804im_/http://nonwovenindia.in/fonts/lato-bold.svg#LatoBoldBold') format('svg');
 }
 @font-face {
     font-family: 'DosisBold';
-    src: url('/web/20181128002804im_/http://nonwovenindia.in/fonts/dosis-bold.eot');
-    src: url('/web/20181128002804im_/http://nonwovenindia.in/fonts/dosis-bold.eot') format('embedded-opentype'),
-         url('/web/20181128002804im_/http://nonwovenindia.in/fonts/dosis-bold.woff2') format('woff2'),
-         url('/web/20181128002804im_/http://nonwovenindia.in/fonts/dosis-bold.woff') format('woff'),
-         url('/web/20181128002804im_/http://nonwovenindia.in/fonts/dosis-bold.ttf') format('truetype'),
-         url('/web/20181128002804im_/http://nonwovenindia.in/fonts/dosis-bold.svg#DosisBold') format('svg');
+    src: url('https://web.archive.org/web/20181128002804im_/http://nonwovenindia.in/fonts/dosis-bold.eot');
+    src: url('https://web.archive.org/web/20181128002804im_/http://nonwovenindia.in/fonts/dosis-bold.eot') format('embedded-opentype'),
+         url('https://web.archive.org/web/20181128002804im_/http://nonwovenindia.in/fonts/dosis-bold.woff2') format('woff2'),
+         url('https://web.archive.org/web/20181128002804im_/http://nonwovenindia.in/fonts/dosis-bold.woff') format('woff'),
+         url('https://web.archive.org/web/20181128002804im_/http://nonwovenindia.in/fonts/dosis-bold.ttf') format('truetype'),
+         url('https://web.archive.org/web/20181128002804im_/http://nonwovenindia.in/fonts/dosis-bold.svg#DosisBold') format('svg');
 }
 
 /* Primary Styles
 ---------------------------------*/
 body {
-	background-image: url(/web/20181128002804im_/http://nonwovenindia.in/img/bg_2.jpg);
+	background-image: url(https://web.archive.org/web/20181225211453im_/http://nonwovenindia.in/img/bg_2.jpg);
 /*	background:#fff;*/
 	font-family: 'Lato', sans-serif;
 	font-size:14px;
@@ -203,7 +203,7 @@ p{
 	}
 	
 .top_cont_inner{
-	/*background:url(/web/20181128002804im_/http://nonwovenindia.in/img/banner.jpg) no-repeat right bottom;*/
+	/*background:url(https://web.archive.org/web/20181225211453im_/http://nonwovenindia.in/img/banner.jpg) no-repeat right bottom;*/
 	}
 	
 .top_content{
@@ -372,7 +372,7 @@ a.learn_more2:hover{
 	
 	
 .top_cont_latest{
-	background:url(/web/20181128002804im_/http://nonwovenindia.in/img/dashboard_pic.png) no-repeat right bottom;
+	background:url(https://web.archive.org/web/20181225211453im_/http://nonwovenindia.in/img/dashboard_pic.png) no-repeat right bottom;
 }
 	
 .work_pic{
@@ -636,7 +636,7 @@ img {
 	
 .quote_arrow{
 	position:absolute;
-	background:url(/web/20181128002804im_/http://nonwovenindia.in/img/quote_arrow.png) no-repeat left top;
+	background:url(https://web.archive.org/web/20181225211453im_/http://nonwovenindia.in/img/quote_arrow.png) no-repeat left top;
 	width:23px;
 	height:25px;
 	left:-22px; 
@@ -645,7 +645,7 @@ img {
 	}
 	
 .quote_arrow2{
-	background:url(/web/20181128002804im_/http://nonwovenindia.in/img/quote_arrow2.png) no-repeat right top;
+	background:url(https://web.archive.org/web/20181225211453im_/http://nonwovenindia.in/img/quote_arrow2.png) no-repeat right top;
 	position:absolute;
 	width:23px;
 	height:25px;
@@ -661,7 +661,7 @@ img {
 
 
 .c-logo-part{
-	background: url(/web/20181128002804im_/http://nonwovenindia.in/img/poligan_bg.jpg) no-repeat left top;
+	background: url(https://web.archive.org/web/20181225211453im_/http://nonwovenindia.in/img/poligan_bg.jpg) no-repeat left top;
 	padding: 60px 0;
 	margin-top: 60px;
     filter: alpha(opacity=60);
@@ -803,7 +803,7 @@ img {
 	}
 	
 .twitter_bird{
-	background:url(/web/20181128002804im_/http://nonwovenindia.in/img/twitter_bird.png) no-repeat left top;
+	background:url(https://web.archive.org/web/20181225211453im_/http://nonwovenindia.in/img/twitter_bird.png) no-repeat left top;
 	width:36px;
 	margin:0px auto 15px;
 	}
@@ -842,7 +842,7 @@ img {
 	}
 	
 .twitter_bird{
-	/*background:url(/web/20181128002804im_/http://nonwovenindia.in/img/twitter_bird.png) no-repeat left top;*/
+	/*background:url(https://web.archive.org/web/20181225211453im_/http://nonwovenindia.in/img/twitter_bird.png) no-repeat left top;*/
 	width:36px;
 	margin:0px auto 15px;
 	}
@@ -873,7 +873,7 @@ img {
 }
 
 .main-section.contact{
-	background:url(/web/20181128002804im_/http://nonwovenindia.in/img/bg-map.png) left 190px no-repeat;
+	background:url(https://web.archive.org/web/20181225211453im_/http://nonwovenindia.in/img/bg-map.png) left 190px no-repeat;
 }
 
 
@@ -1069,7 +1069,7 @@ img {
 /* Footer
 ---------------------------------*/
 
-.footer_section{ background:url(/web/20181128002804im_/http://nonwovenindia.in/img/pattern_bg.jpg) repeat left top;
+.footer_section{ background:url(https://web.archive.org/web/20181225211453im_/http://nonwovenindia.in/img/pattern_bg.jpg) repeat left top;
 }
 
 .footer_bottom{
@@ -1355,7 +1355,7 @@ img {
 		height:40px;
 		margin-top:40px;
 		opacity:0;
-		background:url(/web/20181128002804im_/http://nonwovenindia.in/css/images/zoom.png);
+		background:url(https://www.nonwovenindia.in/css/images/zoom.png);
 		background-size:40px 40px;
 		transition:all 0.3s ease 0.1s;
 		-moz-transition:all 0.3s ease 0.2s;
@@ -1437,7 +1437,7 @@ img {
 	}
 	
 	#project-page-button-fullscreen li a {
-		background:url(/web/20181128002804im_/http://nonwovenindia.in/css/images/close.png) no-repeat #fff;
+		background:url(https://www.nonwovenindia.in/css/images/close.png) no-repeat #fff;
 		background-size:50px 50px;
 		width:50px;
 		height:50px;
@@ -1491,14 +1491,14 @@ img {
 	
 	
 	.project-image-slider .bx-wrapper .bx-next {
-		background: url("/web/20181128002804im_/http://nonwovenindia.in/css/images/project_slider_right.png") no-repeat;
+		background: url("https://www.nonwovenindia.in/css/images/project_slider_right.png") no-repeat;
 		background-size:35px 65px;
 		opacity:0.3;
 		right:-90px;
 	}
 	
 	.project-image-slider .bx-wrapper .bx-prev {
-		background: url("/web/20181128002804im_/http://nonwovenindia.in/css/images/project_slider_left.png") no-repeat ;
+		background: url("https://www.nonwovenindia.in/css/images/project_slider_left.png") no-repeat ;
 		background-size:35px 65px;
 		opacity:0.3;
 		left:-90px;
@@ -1609,7 +1609,7 @@ img {
 	}
 
 	.in-slide-content div.info-slide {
-		background:#FFF url(/web/20181128002804im_/http://nonwovenindia.in/css/images/info.png) no-repeat left bottom;
+		background:#FFF url(https://www.nonwovenindia.in/css/images/info.png) no-repeat left bottom;
 		background-size:46px 46px;
 		position:absolute;
 		top:30px;
