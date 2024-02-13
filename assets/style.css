@@ -47,8 +47,8 @@ a, a:hover, a:active{ outline:0px !important}
 
 @font-face {
   font-family: 'FontAwesome';
-  src: url('https://web.archive.org/web/20181128002804im_/http://nonwovenindia.in/fonts/fontawesome-webfont.eot?v=4.1.0');
-  src: url('https://web.archive.org/web/20181128002804im_/http://nonwovenindia.in/fonts/fontawesome-webfont.eot#iefix&v=4.1.0') format('embedded-opentype'), url('https://web.archive.org/web/20181128002804im_/http://nonwovenindia.in/fonts/fontawesome-webfont.woff?v=4.1.0') format('woff'), url('https://web.archive.org/web/20181128002804im_/http://nonwovenindia.in/fonts/fontawesome-webfont.ttf?v=4.1.0') format('truetype'), url('https://web.archive.org/web/20181128002804im_/http://nonwovenindia.in/fonts/fontawesome-webfont.svg?v=4.1.0#fontawesomeregular') format('svg');
+  src: url('https://nonwovenindia.in/assets/fontawesome-webfont.eot?v=4.1.0');
+  src: url('https://nonwovenindia.in/assets/fontawesome-webfont.eot#iefix&v=4.1.0') format('embedded-opentype'), url('https://nonwovenindia.in/fonts/fontawesome-webfont.woff?v=4.1.0') format('woff'), url('https://nonwovenindia.in/fonts/fontawesome-webfont.ttf?v=4.1.0') format('truetype'), url('https://nonwovenindia.in/fonts/fontawesome-webfont.svg?v=4.1.0#fontawesomeregular') format('svg');
   font-weight: normal;
   font-style: normal;
 }
